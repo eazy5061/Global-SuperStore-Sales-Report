@@ -23,3 +23,9 @@
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Income Percentage: Profit Ratio
 <br>7. Managers should have restricted data access as per their market allocation by the organization. (Implement RLS)
 <br>8. Publish a report in the Power BI Service and share it with other users of the same market role.
+
+<br><b>Screenshots of the Sales Report Dashboard:</b>
+
+<img src="PowerBI/Sales Summary.png" alt="Screenshot of dashboard" width="1400" height="1000"> 
+
+<img src="PowerBI/Q&A Analysis.png" alt="Screenshot of dashboard" width="1400" height="1000"> 
