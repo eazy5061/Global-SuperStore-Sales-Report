@@ -1,4 +1,3 @@
-# Global Super Store Sales Report
 [![Power BI Yellow](https://img.shields.io/badge/Made%20with-Power%20BI-F2C80F?style=flat&logo=powerbi&logoColor=white&labelColor=374649)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
 [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETED-green.svg)](https://shields.io/)
 
