@@ -26,10 +26,10 @@
 
 <br><b>Screenshots of the Sales Report Dashboard:</b>
 
-<img src="PowerBI/Sales Summary.png" alt="Screenshot of dashboard" width="900" height="800"> 
+<img src="PowerBI/Sales Summary.png" alt="Screenshot of dashboard" width="500" height="500"> 
 <br>
 <br>
-<img src="PowerBI/Q&A Analysis.png" alt="Screenshot of dashboard" width="900" height="800"> 
+<img src="PowerBI/Q&A Analysis.png" alt="Screenshot of dashboard" width="500" height="500"> 
 
 <br><b>Connect with me</b>
 <br>[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hongliang-tea/) 
