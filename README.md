@@ -29,6 +29,8 @@
 <img src="PowerBI/Sales Summary.png" alt="Screenshot of dashboard"> 
 <br>
 <br>
+<br>
+<br>
 <img src="PowerBI/Q&A Analysis.png" alt="Screenshot of dashboard"> 
 
 <br><b>Connect with me</b>
