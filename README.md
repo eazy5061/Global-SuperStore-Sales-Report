@@ -2,6 +2,7 @@
 [![Power BI Yellow](https://img.shields.io/badge/Made%20with-Power%20BI-F2C80F?style=flat&logo=powerbi&logoColor=white&labelColor=374649)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
 [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETED-green.svg)](https://shields.io/)
 
+
 <br><b>Situation</b>
 <br>Global Super Store is an online supergiant store that has worldwide operations. This store takes orders and delivers products across the globe and deals with all the major product categories like furniture, office supplies and technology, and so on.
 <br>Been the Sales Manager for this store, the responsibility is to analyze the sales of the products based on provided historical data, this analysis will help to plan the inventory and business processes accordingly. Also, to know the product’s and customer’s behavior. 
@@ -29,3 +30,7 @@
 <img src="PowerBI/Sales Summary.png" alt="Screenshot of dashboard" width="1400" height="1000"> 
 
 <img src="PowerBI/Q&A Analysis.png" alt="Screenshot of dashboard" width="1400" height="1000"> 
+
+<br><b>If you want to connect with me, you can click the below icons</b>
+<br>[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hongliang-tea/) 
+[![GitHub](https://img.shields.io/badge/GitHub-Connect-black)](https://github.com/eazy5061)
