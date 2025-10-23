@@ -30,6 +30,6 @@
 
 <img src="PowerBI/Q&A Analysis.png" alt="Screenshot of dashboard" width="800" height="800"> 
 
-<br><b>If you want to connect with me, you can click the below icons</b>
+<br><b>Connect with me</b>
 <br>[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hongliang-tea/) 
 [![GitHub](https://img.shields.io/badge/GitHub-Connect-black)](https://github.com/eazy5061)
