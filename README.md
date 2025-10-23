@@ -3,8 +3,8 @@
 
 
 <br><b>Situation</b>
-<br>Global Super Store is an online supergiant store that has worldwide operations. This store takes orders and delivers products across the globe and deals with all the major product categories like furniture, office supplies and technology, and so on.
-<br>Been the Sales Manager for this store, the responsibility is to analyze the sales of the products based on provided historical data, this analysis will help to plan the inventory and business processes accordingly. Also, to know the product’s and customer’s behavior. 
+<br>Global Super Store is an online super store that has worldwide operations. This store takes orders and delivers products across the globe and deals with all the major product categories like furniture, office supplies and technology, and so on.
+<br>The objective is to analyze the sales of the products based on provided historical data. As this analysis will help to plan the inventory and business processes accordingly and also to know the product’s and customer’s behavior. 
 
 <br><b>Output</b>
 <br>The final report should contain the following two pages: 
