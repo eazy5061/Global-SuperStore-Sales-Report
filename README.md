@@ -24,6 +24,12 @@
 <br>7. Managers should have restricted data access as per their market allocation by the organization. (Implement RLS)
 <br>8. Publish a report in the Power BI Service and share it with other users of the same market role.
 
+💡 <b>Key Dashboards & Insights:</b>
+<br>1️⃣ Sales Summary – Tracks of key performance metrics, profit and sales trends and revenue insights for strategic decision-making.
+<br>2️⃣ Q&A Analysis – Designed to help users interactively explore business metrics and combines visual storytelling with natural language querying, making it easier for non-technical users to gain insights.
+
+<br>🧠 Built entirely using Microsoft Power BI, this dashboard focuses on data storytelling, intuitive design and practical insights which ensure that stakeholders can grasp key takeaways at a glance.
+
 <br><b>Screenshots of the Sales Report Dashboard:</b>
 
 <img src="PowerBI/Sales Summary.png" alt="Screenshot of dashboard"> 
